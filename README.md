@@ -1,4 +1,4 @@
-Spotify Marketing Insights
+## Spotify Marketing Insights
 Analyzing Listening Behavior to Inform Artist Discovery & Marketing Strategy
 
 ## Project Overview
